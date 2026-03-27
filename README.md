@@ -4,6 +4,7 @@ Open Source Software Audit project on VLC Media Player with 5 Bash scripts and r
 
 ## Student Details
 Name: Arush Dixit
+
 Roll Number: 24BCY10118
 
 ## Chosen Software
